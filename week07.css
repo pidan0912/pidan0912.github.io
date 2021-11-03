@@ -1,7 +1,25 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    broder:10 px solid
 
+*{
+ margin: 0;
+ padding: 0;
+ list-style:none
+ box-sizing:border-box}
+img{
+ hight:250px;
+ width: 333px;
+}
+.img-start{
+border: 2px solid red;
+}
+#img-master{
+ border: 3px dashed yellow;
+}
+.relative{background: red;
+width: 500px;
+height: 500px;
+}
+.absolute{
+ background: black;
+ width: 100px;
+ height: 100px;
 }
